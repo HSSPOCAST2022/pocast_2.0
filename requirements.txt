@@ -1,0 +1,4 @@
+gspread_pandas==3.2.2
+pandas==1.5.2
+google==3.0.0
+streamlit_option_menu==0.3.2
